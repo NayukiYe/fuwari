@@ -36,6 +36,26 @@ export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
+		{
+			name: "分类",
+			url: "/categories/",
+			external: false,
+		},
+		{
+			name: "图库",
+			url: "/gallery/",
+			external: false,
+		},
+		{
+			name: "动态",
+			url: "/moments/",
+			external: false,
+		},
+		{
+			name: "友链",
+			url: "/links/",
+			external: false,
+		},
 		LinkPreset.About,
 		{
 			name: "GitHub",
