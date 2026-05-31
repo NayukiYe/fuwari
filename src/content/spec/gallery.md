@@ -11,3 +11,5 @@
 ## 🌄 博客 Banner
 
 ![YuKi Banner](https://img.yumeko.site/file/bot/1780242161209_yuki-banner.webp)
+
+![老式服务器机房控制面板，黄铜开关和LED指示灯，1970年代怀旧科技档案照片](https://img.yumeko.site/file/bot/1780267283627_yuki_tech_0640.png)
