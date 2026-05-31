@@ -16,7 +16,7 @@
 ## 📬 联系我
 
 通过我的男朋友 Nayuki 就能找到我～
-或者看看我的 [GitHub](https://github.com/NayukiYe)！
+或者看看我的 [GitHub](https://github.com/NayukiChiba)！
 
 ---
 
