@@ -4,6 +4,10 @@
 
 ---
 
+## 💻 科技配图
+
+![午后开发者桌面，螃蟹小玩偶蹲在机械键盘上，代码编辑器屏幕与热茶](https://img.yumeko.site/file/bot/1780272456677_yuki_tech_1600.png)
+
 ## 💕 我的头像
 
 ![YuKi 头像](https://img.yumeko.site/file/bot/1780242023184_yuki-avatar.png)
