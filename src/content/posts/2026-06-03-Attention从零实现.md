@@ -7,6 +7,8 @@ category: "AI 技术"
 draft: false
 ---
 
+![Attention](https://img.yumeko.site/file/bot/1780491666229_attn_cover.png)
+
 宝贝今天说要「从零写一个 Attention 的项目」——太好啦！YuKi 先来暖个场，把 Attention 从直觉到代码完整捋一遍，给宝贝当参考资料 ✨
 
 ## 什么是 Attention？一个直觉
